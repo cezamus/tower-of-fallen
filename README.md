@@ -4,7 +4,7 @@ June 2020
 #### Authors
 * Cezary Muszyński - repository owner
 * Dawid Pawliczek
-**Music authors**
+#### Music authors
 * Dawid Pawliczek
 * Artur Wita
 
